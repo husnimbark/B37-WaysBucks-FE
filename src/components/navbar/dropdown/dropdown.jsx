@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { NavDropdown } from "react-bootstrap";
 import { UserContext } from "../../../context/useContext";
 import { Link, useNavigate } from "react-router-dom";
-import Photo from "../../../assets/Ellipse 1.png";
+import Photo from "../../../assets/blank-profile.png";
 import Profile from "../../../assets/user 2.svg";
 import AddProduct from "../../../assets/AddProduct.svg";
 import AddToping from "../../../assets/topping 1.svg";
